@@ -1,0 +1,13 @@
+baseURL = 'https://yota.uba.be'
+languageCode = 'en-us'
+title = 'YOTA Belgium'
+
+paginate = 4
+
+[params]
+  description = "UBA YOTA"
+  dateFormat = "Jan 2, 2006"
+
+[taxonomies]
+  category = "categories"
+  author = "authors"
