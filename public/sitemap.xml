@@ -2,48 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://yota.uba.be/authors/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/bastien-cabay/</loc>
+    <loc>https://yota.uba.be/authors/bastien-cabay/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://yota.uba.be/categories/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/contribute/</loc>
+    <loc>https://yota.uba.be/categories/contribute/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/how-to-make-an-article/</loc>
+    <loc>https://yota.uba.be/how-to-make-an-article/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/newsletter/</loc>
+    <loc>https://yota.uba.be/categories/newsletter/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/website/</loc>
+    <loc>https://yota.uba.be/categories/website/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/worldwide/</loc>
+    <loc>https://yota.uba.be/categories/worldwide/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/yota/</loc>
+    <loc>https://yota.uba.be/categories/yota/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://yota.uba.be/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/yota-newletter/</loc>
+    <loc>https://yota.uba.be/yota-newletter/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/belgium/</loc>
+    <loc>https://yota.uba.be/categories/belgium/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/news/</loc>
+    <loc>https://yota.uba.be/categories/news/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/we-relive/</loc>
+    <loc>https://yota.uba.be/we-relive/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aboutus/</loc>
+    <loc>https://yota.uba.be/aboutus/</loc>
   </url>
 </urlset>

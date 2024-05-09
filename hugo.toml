@@ -6,7 +6,7 @@ title = 'YOTA Belgium'
 [params]
   Title = "YOTA Belgium"
   description = "UBA YOTA"
-  dateFormat = "Jan 2, 2006"
+  dateFormat = "2 Jan 2006"
 
 [taxonomies]
   category = "categories"
