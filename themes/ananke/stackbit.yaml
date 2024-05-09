@@ -131,7 +131,7 @@ models:
     file: _index.md
     hideContent: false
     singleInstance: true
-    layout: index.html
+    layout: aboutus.html
     fields:
       - type: string
         name: title

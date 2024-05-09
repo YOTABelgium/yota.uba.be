@@ -1,0 +1,23 @@
+{{ define "main" }}
+<main aria-role="main">
+    <header class="homepage-header">
+        <h1>{{ .Title }}</h1>
+        {{ with .Params.Subtitle }}
+        <span class="subtitle">{{ . }}</span>
+        {{ end }}
+    </header>
+    <div class="homepage-content">
+        <!-- Note that the content for aboutus.html, as a sort of list page, will pull from content/_index.md -->
+        <!-- Put a few pixels between title and content -->
+        <div style="margin-top: 30px;">{{ .Content }}</div>
+        <div style="margin-top: 50px;">
+        <iframe src="{{ .Params.iframe }}"style="border:solid 1px #777" width="400" height="350" frameborder="0" scrolling="no"></iframe>
+        </div>
+    </div>
+    <div>
+        {{ range first 10 .Site.RegularPages }}
+        {{ .Render "summary" }}
+        {{ end }}
+    </div>
+</main>
+{{ end }}

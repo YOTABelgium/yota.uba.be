@@ -9,6 +9,13 @@
     <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>How to submit an article</title>
+      <link>http://localhost:1313/how-to-make-an-article/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/how-to-make-an-article/</guid>
+      <description>Hello,&#xA;The Belgium YOTA website is a static website generated using HUGO.&#xA;This allows us to generate website and blog using markdown.&#xA;Therefore, we do not require any technical knoweldge to submit article.&#xA;To submit an article: You need to follow the following steps,&#xA;Go to GitHub: https://github.com/YOTABelgium/yota.uba.be Create the article in markdown format, get an article from the repository as an example , you can add picture that are stored locally or on the web.</description>
+    </item>
+    <item>
       <title>YOTA Newsletter May 2024</title>
       <link>http://localhost:1313/yota-newletter/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
