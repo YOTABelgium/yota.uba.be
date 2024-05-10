@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bastien Cabay on YOTA Belgium</title>
-    <link>https://yota.uba.be/authors/bastien-cabay/</link>
+    <link>http://localhost:1313/authors/bastien-cabay/</link>
     <description>Recent content in Bastien Cabay on YOTA Belgium</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yota.uba.be/authors/bastien-cabay/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/authors/bastien-cabay/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to submit an article</title>
-      <link>https://yota.uba.be/how-to-make-an-article/</link>
+      <link>http://localhost:1313/how-to-make-an-article/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://yota.uba.be/how-to-make-an-article/</guid>
+      <guid>http://localhost:1313/how-to-make-an-article/</guid>
       <description>Hello,&#xA;The Belgium YOTA website is a static website generated using HUGO.&#xA;This allows us to generate website and blog using markdown.&#xA;Therefore, we do not require any technical knoweldge to submit article.&#xA;To submit an article: You need to follow the following steps,&#xA;Go to GitHub: https://github.com/YOTABelgium/yota.uba.be Create the article in markdown format, get an article from the repository as an example , you can add picture that are stored locally or on the web.</description>
     </item>
     <item>
       <title>YOTA Newsletter May 2024</title>
-      <link>https://yota.uba.be/yota-newletter/</link>
+      <link>http://localhost:1313/yota-newletter/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://yota.uba.be/yota-newletter/</guid>
+      <guid>http://localhost:1313/yota-newletter/</guid>
       <description>You can download the newsletter from the official YOTA Discord server:&#xA;Click here to join the discord.</description>
     </item>
     <item>
       <title>We are live!</title>
-      <link>https://yota.uba.be/we-relive/</link>
+      <link>http://localhost:1313/we-relive/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://yota.uba.be/we-relive/</guid>
+      <guid>http://localhost:1313/we-relive/</guid>
       <description>Good afternoon everyone.&#xA;I&amp;rsquo;m proud to announce that we have a website for YOTA Belgium.&#xA;The website is written using HUGO, which allows us to generate website and blog using markdown.&#xA;Therefore, we do not require any technical knoweldge to submit article.</description>
     </item>
   </channel>

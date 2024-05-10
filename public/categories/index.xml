@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on YOTA Belgium</title>
-    <link>https://yota.uba.be/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on YOTA Belgium</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yota.uba.be/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contribute</title>
-      <link>https://yota.uba.be/categories/contribute/</link>
+      <link>http://localhost:1313/categories/contribute/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yota.uba.be/categories/contribute/</guid>
+      <guid>http://localhost:1313/categories/contribute/</guid>
       <description></description>
     </item>
     <item>
       <title>Newsletter</title>
-      <link>https://yota.uba.be/categories/newsletter/</link>
+      <link>http://localhost:1313/categories/newsletter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yota.uba.be/categories/newsletter/</guid>
+      <guid>http://localhost:1313/categories/newsletter/</guid>
       <description></description>
     </item>
     <item>
       <title>Website</title>
-      <link>https://yota.uba.be/categories/website/</link>
+      <link>http://localhost:1313/categories/website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yota.uba.be/categories/website/</guid>
+      <guid>http://localhost:1313/categories/website/</guid>
       <description></description>
     </item>
     <item>
       <title>Worldwide</title>
-      <link>https://yota.uba.be/categories/worldwide/</link>
+      <link>http://localhost:1313/categories/worldwide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yota.uba.be/categories/worldwide/</guid>
+      <guid>http://localhost:1313/categories/worldwide/</guid>
       <description></description>
     </item>
     <item>
       <title>YOTA</title>
-      <link>https://yota.uba.be/categories/yota/</link>
+      <link>http://localhost:1313/categories/yota/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yota.uba.be/categories/yota/</guid>
+      <guid>http://localhost:1313/categories/yota/</guid>
       <description></description>
     </item>
     <item>
       <title>Belgium</title>
-      <link>https://yota.uba.be/categories/belgium/</link>
+      <link>http://localhost:1313/categories/belgium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yota.uba.be/categories/belgium/</guid>
+      <guid>http://localhost:1313/categories/belgium/</guid>
       <description></description>
     </item>
     <item>
       <title>News</title>
-      <link>https://yota.uba.be/categories/news/</link>
+      <link>http://localhost:1313/categories/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yota.uba.be/categories/news/</guid>
+      <guid>http://localhost:1313/categories/news/</guid>
       <description></description>
     </item>
   </channel>
