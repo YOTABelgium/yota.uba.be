@@ -6,8 +6,15 @@
     <description>Recent content in Bastien Cabay on YOTA Belgium</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/authors/bastien-cabay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We have a new logo!</title>
+      <link>http://localhost:1313/we-got-a-new-logo/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/we-got-a-new-logo/</guid>
+      <description>Hello,&#xA;As you may have noticed, we have a new logo for the Belgium YOTA website.&#xA;The goal of this new logo is to make the website more modern and to make it more appealing to the younger generation. And giving a visual identity to the website.</description>
+    </item>
     <item>
       <title>How to submit an article</title>
       <link>http://localhost:1313/how-to-make-an-article/</link>

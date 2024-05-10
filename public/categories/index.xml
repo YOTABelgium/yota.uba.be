@@ -6,8 +6,29 @@
     <description>Recent content in Categories on YOTA Belgium</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Logo</title>
+      <link>http://localhost:1313/categories/logo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/logo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Website</title>
+      <link>http://localhost:1313/categories/website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/website/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>YOTA</title>
+      <link>http://localhost:1313/categories/yota/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/yota/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Contribute</title>
       <link>http://localhost:1313/categories/contribute/</link>
@@ -23,24 +44,10 @@
       <description></description>
     </item>
     <item>
-      <title>Website</title>
-      <link>http://localhost:1313/categories/website/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/website/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Worldwide</title>
       <link>http://localhost:1313/categories/worldwide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/worldwide/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>YOTA</title>
-      <link>http://localhost:1313/categories/yota/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/yota/</guid>
       <description></description>
     </item>
     <item>
